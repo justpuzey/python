@@ -1,0 +1,8 @@
+HOME | Move cursor to end of line
+END |  Move cursor to beginning of line
+Ctrl + HOME | Move cursor to beginning of file
+Ctrl + END | Move cursor to end of file
+Alt + UP/Down Arrow | Move all text in row up/Down
+Move multiple Rows | Select Rows +_Alt + Up/Down Arrow
+Shift + Alt + Down | Duplicates row(s)
+Ctrl + / | Add Comment #
