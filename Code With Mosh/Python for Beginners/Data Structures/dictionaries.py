@@ -67,3 +67,4 @@ while (Selection != 4):
 
     if (Selection >= 0) and (Selection < 4):
         ColorSelect[Selection]()
+
