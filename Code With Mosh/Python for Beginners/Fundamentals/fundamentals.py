@@ -1,5 +1,7 @@
 from sys import argv  # Import argv module
 
+#dir(list) - dir command shows what actions you can perform usting a specified object
+
 # -------------------------------------------------------------------------
 # CAPTURING USER INPUT
 # -------------------------------------------------------------------------
